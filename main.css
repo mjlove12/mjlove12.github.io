@@ -16,21 +16,10 @@ small{
 }
 
 .navbar-default {
- 	  color: white !important;
       background-color:transparent !important;
       border-color:transparent !important;
       background-image:none !important;
       box-shadow:none !important;  
-      text-align: center !important;
-      vertical-align: top !important;
-}
-
-.navbar-header {
-	text-align: center !important;
-}
-
-.navbar-collapse {
-	text-align: center !important;
 }
 
 .col-md-4 {
