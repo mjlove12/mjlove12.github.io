@@ -2,6 +2,7 @@
 body { 
 	padding-top: 60px;
 	background-color: #fcf4e9 !important; 
+	padding-bottom: 50px;
 }
 
 h1{
@@ -20,18 +21,14 @@ small{
 .force-to-bottom {
   position:absolute;
   bottom: 5%;
+
 }
 
 .navbar-brand {
 	color: #8FBC8F !important;
 }
 
-.navbar-default {
-      background-color:transparent !important;
-      border-color:transparent !important;
-      background-image:none !important;
-      box-shadow:none !important;  
-}
+
 
 .col-md-4 {
 	text-align: center !important;
