@@ -1,0 +1,1 @@
+This is the code for my wedding website hosted on github. It is mostly a means for becoming familiar with basic CSS, HTML and specifically the Bootstrap framework.
