@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Sep 2018 11:18:14 GMT</lastBuildDate><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Sep 2018 11:31:00 GMT</lastBuildDate><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -141,6 +141,42 @@
 /static/hosts2-9121af8d98a82422c448bd013bd3fb3a-d1924.jpg 1180w,
 /static/hosts2-9121af8d98a82422c448bd013bd3fb3a-9452e.jpg 1770w,
 /static/hosts2-9121af8d98a82422c448bd013bd3fb3a-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-30631.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAcp1pUdQYgOZcLJJIG//xAAbEAADAQEAAwAAAAAAAAAAAAAAAQIDEhMUQf/aAAgBAQABBQIlHypVbYwezol3TeTVHaR4pmVDsqIh/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BKf/EACEQAAEDAgcBAAAAAAAAAAAAAAABESECUQMQEiIxMmFx/9oACAEBAAY/AjVS8ZYjpcqT4NA78kKdh6txZPBpP//EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBMWH/2gAIAQEAAT8hbCkj5QfUNEc7Aiw36gRTHyKidO2uwR285HAiz5cor6c5CPQ+Rlbn/9oADAMBAAIAAwAAABADIv8A/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQMBAT8QWQhSP//EABkRAAIDAQAAAAAAAAAAAAAAAAARARAhQf/aAAgBAgEBPxBcGYmv/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBcVFhscH/2gAIAQEAAT8QuEYciUkQCcHBE9jGIGxBGACCx8NFROJIloXb+XDQIQBl5VGgLmWQIruavmo3iwG/tBYYgaW6hgRVVV1M0ELVSf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Hosts3&quot;
+        title=&quot;&quot;
+        src=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-f8fb9.jpg&quot;
+        srcset=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-e8976.jpg 148w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-63df2.jpg 295w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-f8fb9.jpg 590w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-85e3d.jpg 885w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-d1924.jpg 1180w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-30631.jpg 1600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
