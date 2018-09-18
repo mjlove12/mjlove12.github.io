@@ -16,6 +16,8 @@ There is no grocery store or restaurant in the town. Just many, many vineyards a
 
 ![Hosts2](./hosts2.jpg)
 
+![Hosts3](./hosts3.jpg)
+
 We are not very wine savvy, so much of the uniqueness of this area is probably wasted on us. However, the physical landscape, the small villages and the old buildings all combine to make a countryside that is *unbelievable*. We have spent the majority of our time biking through vineyards and walking through town.
 
 ![Unbelievable](./unbelievable.jpg)
