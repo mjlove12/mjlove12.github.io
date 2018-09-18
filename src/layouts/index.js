@@ -15,31 +15,29 @@ class Template extends React.Component {
     }
 
     return (
-      <div style={{ display: 'flex', flexDirection: 'row' }}>
+      <div style={{ margin: 0, height: '100%', position: 'fixed' }}>
         <div
           // SIDEBAR
           style={{
             height: '100%',
+            display: 'inline-block',
             width: '20%',
-            position: 'fixed',
-            zIndex: 1,
-            top: 0,
-            left: 0,
-            // backgroundColor: 'lightgrey',
-            overflowX: 'hidden', // disable horizontal scroll
-            paddingTop: '20px',
+            overflow: 'auto',
+            verticalAlign: 'top',
             borderRight: '1px solid lightgrey',
-            margin: 10,
           }}
         >
           <Bio/>
         </div>
         <div
           style={{
-            marginLeft: 'auto',
-            marginRight: 'auto',
-            maxWidth: rhythm(24),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+            display: 'inline-block',
+            width: 'calc(80% - 20px)',
+            verticalAlign: 'top',
+            height: 'calc(100% - 10px)',
+            overflow: 'auto',
+            marginLeft: 20,
+            paddingRight: 60,
             color: '#555555',
           }}
         >

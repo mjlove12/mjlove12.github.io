@@ -14,6 +14,7 @@ class Bio extends React.Component {
       <div
         style={{
           marginBottom: rhythm(2.5),
+          marginTop: rhythm(2.5),
           textAlign: 'center',
         }}
       >
@@ -32,6 +33,8 @@ class Bio extends React.Component {
         <p>
           Sharing our small <strong>adventures</strong> home and abroad.{' '}
         </p>
+        {
+          /*
         <ul
           style={{
             listStyle: 'none',
@@ -49,6 +52,9 @@ class Bio extends React.Component {
             </Link>
           </li>
         </ul>
+          */
+        }
+
       </div>
     )
   }
