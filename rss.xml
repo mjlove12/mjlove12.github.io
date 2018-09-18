@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Sep 2018 11:18:14 GMT</lastBuildDate><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-253af.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAABfMyznLBED//EABgQAAMBAQAAAAAAAAAAAAAAAAABFBET/9oACAEBAAEFAqkUlTNHqOjR/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIv/aAAgBAgEBPwG5af/EABkQAAIDAQAAAAAAAAAAAAAAAAAQATEyQf/aAAgBAQAGPwKjJmFfF//EABsQAAIDAAMAAAAAAAAAAAAAAAABETFBgcHx/9oACAEBAAE/IXjPkbexydhOqIF9kNKXWn//2gAMAwEAAgADAAAAEOcv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qp//EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFR/9oACAECAQE/EGmydH//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMUFxUZGhsf/aAAgBAQABPxClnptaB8gA0e1fkJh7EaKqluxePMJ0ccKysGEOjx1P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Vineyards&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-f8fb9.jpg&quot;
+        srcset=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-e8976.jpg 148w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-63df2.jpg 295w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-f8fb9.jpg 590w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-85e3d.jpg 885w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-d1924.jpg 1180w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-9452e.jpg 1770w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-253af.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAFsmwkJBYS//8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDERIAMf/aAAgBAQABBQKZnQaxN6aBGFDX3//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8BuW3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BjX//xAAZEAACAwEAAAAAAAAAAAAAAAABEQACEFH/2gAIAQEABj8CChdiexjDbuf/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhcTFBYf/aAAgBAQABPyFRHvpCsIuuoiwqfJ5ovsast1sxmT//2gAMAwEAAgADAAAAEHsf/8QAFxEBAAMAAAAAAAAAAAAAAAAAABEhcf/aAAgBAwEBPxCyWH//xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAIAQIBAT8QQEmrf//EABwQAAICAwEBAAAAAAAAAAAAAAERACExUWFxQf/aAAgBAQABPxBcwCrse47IoEv0OOocRjkhR0exAuwP1LR8DzAKVQFUE8n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Grapes&quot;
+        title=&quot;&quot;
+        src=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-f8fb9.jpg&quot;
+        srcset=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-e8976.jpg 148w,
+/static/grapes-d368488629f6e16082f311d9f5792728-63df2.jpg 295w,
+/static/grapes-d368488629f6e16082f311d9f5792728-f8fb9.jpg 590w,
+/static/grapes-d368488629f6e16082f311d9f5792728-85e3d.jpg 885w,
+/static/grapes-d368488629f6e16082f311d9f5792728-d1924.jpg 1180w,
+/static/grapes-d368488629f6e16082f311d9f5792728-9452e.jpg 1770w,
+/static/grapes-d368488629f6e16082f311d9f5792728-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;There is no grocery store or restaurant in the town. Just many, many vineyards and a couple places to stay. We settled in a gorgeous B&amp;#x26;B with the nicest owners.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-253af.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB6ec+yUCfF//EABkQAAIDAQAAAAAAAAAAAAAAAAEDAAITIP/aAAgBAQABBQLShGioHJ4//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABYRAQEBAAAAAAAAAAAAAAAAAAATAf/aAAgBAgEBPwGqmv/EABsQAAIBBQAAAAAAAAAAAAAAAAACAxESICEy/9oACAEBAAY/Aq3KbkU7XD//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhMUGBkf/aAAgBAQABPyFJVDpuc3oitdkHFxZc/9oADAMBAAIAAwAAABAw3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxBK2L//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFh/9oACAECAQE/EBGBcr//xAAdEAEAAwABBQAAAAAAAAAAAAABABEhMUGBkaHh/9oACAEBAAE/ECLCujsrKAPWCOAa18mKgb0nCpc7PBP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Hosts1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-f8fb9.jpg&quot;
+        srcset=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-e8976.jpg 148w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-63df2.jpg 295w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-f8fb9.jpg 590w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-85e3d.jpg 885w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-d1924.jpg 1180w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-9452e.jpg 1770w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-253af.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.70833333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABT3UdmrEif//EABoQAAMAAwEAAAAAAAAAAAAAAAABAgMRIjP/2gAIAQEAAQUCn2voemRLZGNlrJv/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAwADAAAAAAAAAAAAAAAAAAERIDGB/9oACAEBAAY/AuClw2j/xAAcEAEAAgEFAAAAAAAAAAAAAAABABGREDFBUXH/2gAIAQEAAT8hJua9SnTNtsu2DiIcRTamdH//2gAMAwEAAgADAAAAEHsf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAEDAQE/ENW//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QV//EABwQAQADAQEAAwAAAAAAAAAAAAEAESExQWGB0f/aAAgBAQABPxAorFLTR9QKAkS2Djp2L4uNrtxYDcK1Um9Gx6/J5Lngz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Hosts2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-f8fb9.jpg&quot;
+        srcset=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-e8976.jpg 148w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-63df2.jpg 295w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-f8fb9.jpg 590w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-85e3d.jpg 885w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-d1924.jpg 1180w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-9452e.jpg 1770w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We are not very wine savvy, so much of the uniqueness of this area is probably wasted on us. However, the physical landscape, the small villages and the old buildings all combine to make a countryside that is &lt;em&gt;unbelievable&lt;/em&gt;. We have spent the majority of our time biking through vineyards and walking through town.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-30631.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABu8R9kqIonMmLozH/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIRBBIiEP/aAAgBAQABBQKhOyiGcxZNDzZnZ0XPxbGzP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABcRAQEBAQAAAAAAAAAAAAAAAAAREgH/2gAIAQIBAT8Bqs8Zf//EAB0QAAEEAgMAAAAAAAAAAAAAAAABAhExEGEhIjL/2gAIAQEABj8CF1js2dkoiOk8wVijhSyz/8QAHRAAAwABBQEAAAAAAAAAAAAAAAERITFBUYGRYf/aAAgBAQABPyEUxuhQlcToNwRbcchZjT0Z1D4p0+vwnIWzfoud6f/aAAwDAQACAAMAAAAQ799N/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EIiJj//EABcRAAMBAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8Q0SiT/8QAHxABAQACAQQDAAAAAAAAAAAAAREAITFBUWGRcbHR/9oACAEBAAE/ECd/eRIlX6P3CO4ZHAbQbTpTITUAac0R5vGNNNVAd+PGFBdnx7wMogXZhHSHfFkQ964AQUU5YURVvTH/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Unbelievable&quot;
+        title=&quot;&quot;
+        src=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-f8fb9.jpg&quot;
+        srcset=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-e8976.jpg 148w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-63df2.jpg 295w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-f8fb9.jpg 590w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-85e3d.jpg 885w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-d1924.jpg 1180w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-30631.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We’ve also done two tastings. For the first one, we tried 3 wines in a Chateau. The manager did not know English so we drank wine and looked around. The second tasting was the best education we have ever received in wine (yes, including the few tastings we had in Napa). It was very approachable and got both me and Em really motivated to appreciate wine more.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-253af.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABU4wdzNQsn//EABoQAAEFAQAAAAAAAAAAAAAAAAQAAQIDEhH/2gAIAQEAAQUCYit4kE5hAyrPVpMv/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAECAQE/AaU//8QAHBAAAQQDAQAAAAAAAAAAAAAAAQAREjEQIUFh/9oACAEBAAY/AnJbxGFoTeXdKhn/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUGh/9oACAEBAAE/ITgW+nSPQgE1iLmHEAsO0ttBLJ35P//aAAwDAQACAAMAAAAQcx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxClP//EABwQAQEAAgIDAAAAAAAAAAAAAAERACExUWGRsf/aAAgBAQABPxA9cb+IxXkZtovIe8fy9QL43iwFFWYPQJDiuG9HPTP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Chateau Corton&quot;
+        title=&quot;&quot;
+        src=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-f8fb9.jpg&quot;
+        srcset=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-e8976.jpg 148w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-63df2.jpg 295w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-f8fb9.jpg 590w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-85e3d.jpg 885w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-d1924.jpg 1180w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-9452e.jpg 1770w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-253af.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Here’s some simple lessons we learned in the short tasting that I think we will actually remember years from now. Let’s call it, Matt and Em’s new dummies guide for wine. I’m sure we will revise it as we learn more.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you want to pair red wine with food, an easy way to do so is to open the bottle, taste it, think of what food comes to mind, and then go and make that food. So, if the wine     reminds you of earthy flavors, then maybe go make something with mushrooms. This is a     culinary adventure we’d like to try when we get home (or maybe while we’re here).&lt;/li&gt;
+&lt;li&gt;Wine has been made in the Burgundy region as far back as Roman times&lt;sup&gt;&lt;a href=&quot;#footnote1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. That’s 400 BC. I’m sure there are other areas in the world with similar rich histories. With that in mind, give a nice wine a little bit of reverence even if you think it’s wasted on you. That means, learn a little bit about where it’s from and what grapes were used and take your time with drinking so that you can taste as many flavors as you can.&lt;/li&gt;
+&lt;li&gt;To do a wine tasting without feeling like an idiot, (1) smell the wine, (2) swirl and smell again, (3) take the first (small) sip and let it fill every corner of your mouth to cleanse your palette, (4) continue to take sips until the wine is gone. (At least, that’s what the lady told us to do! Oh, and we didn’t spit because we feel weird doing that).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&quot;footnote1&quot;&gt;1&lt;/a&gt;: There are only two grapes produced in this region - Pinot Noir and Chardonnay - and there are no blends. With the same weather and grapes, there is an official scale for quality that is determined by the soil alone. It was determined in the 1930’s and has not changed. There are four levels with the highest called “Grand Cru”. That soil makes up 1% of the soil in the Burgundy region. &lt;/p&gt;</content:encoded></item></channel></rss>

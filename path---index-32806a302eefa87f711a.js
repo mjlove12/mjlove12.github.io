@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{509:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…",fields:{slug:"/burgundy/"},frontmatter:{date:"15 September, 2018",title:"Burgundy"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-32806a302eefa87f711a.js.map
