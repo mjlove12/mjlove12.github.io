@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Sep 2018 11:31:00 GMT</lastBuildDate><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LoveMattandEm]]></title><description><![CDATA[Sharing our small adventures home and abroad.]]></description><link>https://www.lovemattandem.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Sep 2018 06:38:53 GMT</lastBuildDate><item><title><![CDATA[A Tuscan Routine]]></title><description><![CDATA[Daily routine at the farm.]]></description><link>https://www.lovemattandem.com/tuscan_routine/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_routine/</guid><pubDate>Thu, 27 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Daily routine at the farm.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hiking in Tuscany]]></title><description><![CDATA[Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the…]]></description><link>https://www.lovemattandem.com/tuscan_hiking/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_hiking/</guid><pubDate>Mon, 24 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the year where they voted on a list of hikes. This has led to a schedule where they go to a different place in the area every week, excluding the hottest months of the year - so, let’s guess around 40 different hikes.&lt;/p&gt;
+&lt;p&gt;Are you struck by a new thought? I was. You never think of tuscany as a place to hike. Every picture you see on the internet or in the movies is of rolling hills full of private vineyards and Tuscan farm houses, but Tuscany has tons of forest. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-01800.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB0WIpsuxUS//EABsQAAICAwEAAAAAAAAAAAAAAAABAhMDEBES/9oACAEBAAEFArsbLIFsRQevHT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8BtT//xAAZEAACAwEAAAAAAAAAAAAAAAAAMQEQEUH/2gAIAQEABj8CZwcDMr//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhMUGBof/aAAgBAQABPyFVkkCblCHg7NjGOG4SROfD/9oADAMBAAIAAwAAABDXP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EGn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAcf/aAAgBAgEBPxAl/8QAHBABAQEBAAIDAAAAAAAAAAAAAREAQSFRYaHR/9oACAEBAAE/EKAy4Uwst3G3eAMHK/ciAD4K5G6t0+sEIidDfvf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Forest&quot;
+        title=&quot;&quot;
+        src=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-f8fb9.jpg&quot;
+        srcset=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-e8976.jpg 148w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-63df2.jpg 295w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-f8fb9.jpg 590w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-85e3d.jpg 885w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-d1924.jpg 1180w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-9452e.jpg 1770w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-01800.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We set out with a group of 15 people - 3 Germans, 6 Italians, and your 2 favorite Americans - to cover a total of 14km. This took us roughly 6 hours and was way more intense than I expected. The terrain was challenging with rocky ground, narrow paths, and lots of brush and elevation. We saw signs of wild boars, and a couple mushrooms, which the Italians go crazy for including Porcini. One of the group members described a mushroom she picked that was large enough that she sliced it and cooked it as if it were a steak.&lt;/p&gt;
+&lt;p&gt;We stopped twice to picnic, but we tried to show no signs of exhuastion since we were the youngest participants. In fact, there was an 82 year old Italian woman ahead of us most of the time, trudging along and making it look easy.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/group-844821517e8d2a559421d109b1dff774-01800.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdMyYcY//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECESEEExT/2gAIAQEAAQUC2uYJl32EyNpKU//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAbEAACAQUAAAAAAAAAAAAAAAAAASECEBESMv/aAAgBAQAGPwIzrBwrzSj/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMVFx4f/aAAgBAQABPyFp4E7cQsvIPtHUCnIKw2S8yHyf/9oADAMBAAIAAwAAABDbH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxBDbF//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QFkP/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExIVFh/9oACAEBAAE/ECzbAOy52NBUcp37kpt7+4NgpvoAiu6CLvTFE//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Group&quot;
+        title=&quot;&quot;
+        src=&quot;/static/group-844821517e8d2a559421d109b1dff774-f8fb9.jpg&quot;
+        srcset=&quot;/static/group-844821517e8d2a559421d109b1dff774-e8976.jpg 148w,
+/static/group-844821517e8d2a559421d109b1dff774-63df2.jpg 295w,
+/static/group-844821517e8d2a559421d109b1dff774-f8fb9.jpg 590w,
+/static/group-844821517e8d2a559421d109b1dff774-85e3d.jpg 885w,
+/static/group-844821517e8d2a559421d109b1dff774-d1924.jpg 1180w,
+/static/group-844821517e8d2a559421d109b1dff774-9452e.jpg 1770w,
+/static/group-844821517e8d2a559421d109b1dff774-01800.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Although I tried to speak some Italian, I really need to work on my listening skills, and it was broken at best. Everyone was very kind, but our host was the only participant that could speak to everyone since she is fully fluent in English, German and Italian&lt;sup&gt;&lt;a href=&quot;#footnote1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Em and I were in awe watching her switch constantly between the three languages. Every now and then, she would turn to us to ask us a question or make a comment, but accidentally start off in German or Italian. &lt;/p&gt;
+&lt;p&gt;The views were amazing, it was a good workout, and we got a little glimpse into a lifestyle and people whose lives are very different from ours. All in all, a good day.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-01800.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdJEOFH/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRAwQTFCH/2gAIAQEAAQUC5cotyR2pDbZVLw//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/Aays/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQMTIR/9oACAEBAAY/AqMopRwyj//EABsQAAMAAwEBAAAAAAAAAAAAAAABESFBcWGh/9oACAEBAAE/IfKNJvZC+fiYJTrE0EnBrUv/2gAMAwEAAgADAAAAEAs//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EJiH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAL/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAIXExQaHx/9oACAEBAAE/EAvPC8z9zIoIKetUh7oCM9vzE0V8iI6qrOpv/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Matt and Em&quot;
+        title=&quot;&quot;
+        src=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-f8fb9.jpg&quot;
+        srcset=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-e8976.jpg 148w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-63df2.jpg 295w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-f8fb9.jpg 590w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-85e3d.jpg 885w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-d1924.jpg 1180w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-9452e.jpg 1770w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-01800.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;footnote1&quot;&gt;1&lt;/a&gt;: Our hosts speak, German, Italian, English and French effortlessley. It makes me really motiviated to try and brush up on my Italian skills and find a way to stay consistent with my learning.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Time and Human Collaboration]]></title><description><![CDATA[During our trip so far, we have already seen many amazing churches. Two stick out in my mind - Notre Dame Cathedral in Paris and the Duomo…]]></description><link>https://www.lovemattandem.com/buildings/</link><guid isPermaLink="false">https://www.lovemattandem.com/buildings/</guid><pubDate>Sat, 22 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;During our trip so far, we have already seen many amazing churches. Two stick out in my mind - Notre Dame Cathedral in Paris and the Duomo in Milan. Both churches are amazingly beautiful. They both employ the same Gothic techniques and styles. They are simple techniques, repeated over and over in different variations. This repetition, and attention to detail, produced over time leads to an overall effect that is overwhelming. &lt;/p&gt;
+&lt;p&gt;In both places, we just stood and looked around for a long time. In both cases, you had this feeling that you just couldn’t put it altogether. It’s too much. I think this is because it’s beyond one man’s imagination. Both churches are the work of many architects, painters, sculptures, builders, etc. etc. Both were built over an unimainabley long time, with Notre Dame being built from 1100 - 1300, and the Duomo constructed over a period of 600 years!&lt;/p&gt;
+&lt;p&gt;PICTURE OF THE DUOMO&lt;/p&gt;
+&lt;p&gt;PICTURE OF NOTRE DAME&lt;/p&gt;
+&lt;p&gt;When you look at these buildings, you aren’t looking at a central human design as much as something more like an emergent system. It’s more like a city than it is a building, more like the economy than it is a single business. &lt;/p&gt;
+&lt;p&gt;That’s why it is so overwhelming. There are many parts that came together, that the original desginers of the building never inteded. And even though they had the grandest aspirations, the original planners could not have imagined how these buildings look today. &lt;/p&gt;
+&lt;p&gt;Examples? The dome that Napolean added to the Duomo after 500 years of construction! The classical touches that that one guy added to the Duomo. THe fact that the Duomo has stained glass windows from the 1300’s and 1800’s. &lt;/p&gt;
+&lt;p&gt;PICTURE OF STAINED GLASS WITH MARY STATUE&lt;/p&gt;
+&lt;p&gt;Both buildings requried an abundance of time and human collaboration. When you combine these two things, it can lead to the most awe inspiring (or terrifying) effects. It’s what is playing out in open source software. It’s what has already played out with the Hedron Collider, peer reviewed science…&lt;/p&gt;
+&lt;p&gt;In a way, these churches are a microcosm of a city itself. Take Paris. The city has transformed so many times over the years, with it’s first real landmarks we see today breaking ground in 1100. Even though there have been many “city planners” throughout the years, much of the city has “emerged” over time. I don’t think that anyone would have imagined that when Notre Dame was built, that the Paris skyline would be dominated by a giant wire structure, with no purpose except an aesthetic one. &lt;/p&gt;
+&lt;p&gt;PICTURE OF EIFFEL TOWER&lt;/p&gt;
+&lt;p&gt;Or that the narrow medieval streets would be largely replaced by wide avenues and 5 story buildings with black sloped roofs.&lt;/p&gt;
+&lt;p&gt;PICTURE OF THE BUILDINGS&lt;/p&gt;
+&lt;p&gt;This emergent property is so much more apparent in an old city like Paris than it is in younger cities like those in America. But our cities will continue down a similar path. We will keep the old things we like (Baltimore Row Homes) and add new things as we go along. With time and collaboration, humans can build amazing things. But to be careful, maybe we should abide by the open source software rule - make sure you leave it better than when you took it. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Beaten Path]]></title><description><![CDATA[We have spent some time being really touristy and doing some unique things that have been really great.  What does it mean for something to…]]></description><link>https://www.lovemattandem.com/beaten_path/</link><guid isPermaLink="false">https://www.lovemattandem.com/beaten_path/</guid><pubDate>Fri, 21 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We have spent some time being really touristy and doing some unique things that have been really great. &lt;/p&gt;
+&lt;p&gt;What does it mean for something to be toursity? I think it means that you are doing something that is catered towards someone who is visiting, not someone who actually lives in that place. It’s not a binary definition, it’s on a scale. So while the Louvre is mostly catered to tourists, a lot of parisians go there too. That’s middle of the spectrum. When you see the restaurants with the white table cloths and well dressed men speaking English trying to convince you to go there, that means there mostly just catering to you. When you see a cafe full of locals, with a menu that is only in the local language, that’s probably not toursity. &lt;/p&gt;
+&lt;p&gt;Is it bad for something to be touristy? I don’t think so. We are tourists, but if you just went everywhere that was specifically catered for you, then you would not …&lt;/p&gt;
+&lt;p&gt;** ON THE BEATEN PATH **&lt;/p&gt;
+&lt;p&gt;Rick Steves walking tours and 2 day museum pass bonanza…&lt;/p&gt;
+&lt;p&gt;VERSAILLES PICTURE&lt;/p&gt;
+&lt;p&gt;LOUVRE PICTURE&lt;/p&gt;
+&lt;p&gt;The great thing about many of these places is that they are rich with history and showcase the best of the best. That’s why we have started to try and have some sort of audioguide when we visit a tourist site. We want to learn as much as we can on the spot, learn a little bit about what makes these places so unique, what it tells us about human history, and bask in the things that connect us all. This is about understanding what we all have in common. Our shared past, history etc.&lt;/p&gt;
+&lt;p&gt;** OFF THE BEATEN PATH **&lt;/p&gt;
+&lt;p&gt;Chopin Concert, Pugliese Dinner in Italy, Pizza in France, Biking in Burgundy, Airbnb’s&lt;/p&gt;
+&lt;p&gt;The great thing about the places that are off the beaten path is that you get to learn a little bit about how others live their lives. You get to learn about other cultures, their problems, their successes, etc. This is about understanding the things that make us different. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://www.lovemattandem.com/burgundy/</link><guid isPermaLink="false">https://www.lovemattandem.com/burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;

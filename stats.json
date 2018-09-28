@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-773ef58901cac45f905a.js",
-      "component---src-pages-index-js-773ef58901cac45f905a.js.map"
+      "component---src-pages-index-js-15076fb6b3023c436bb1.js",
+      "component---src-pages-index-js-15076fb6b3023c436bb1.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -13,29 +13,29 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-7e3642131680ddcd0811.js",
-      "component---src-templates-blog-post-js-7e3642131680ddcd0811.js.map"
+      "component---src-templates-blog-post-js-5f1a041435b822382f69.js",
+      "component---src-templates-blog-post-js-5f1a041435b822382f69.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f4eaa4c92fc13bd6f9b2.js",
-      "component---src-layouts-index-js-f4eaa4c92fc13bd6f9b2.js.map"
+      "component---src-layouts-index-js-c22527cb69d159e9e076.js",
+      "component---src-layouts-index-js-c22527cb69d159e9e076.js.map"
     ],
     "path---burgundy": [
-      "path---burgundy-511962b3aa93be1d26e1.js",
-      "path---burgundy-511962b3aa93be1d26e1.js.map"
+      "path---burgundy-f1895cb537054791f15c.js",
+      "path---burgundy-f1895cb537054791f15c.js.map"
     ],
     "path---index": [
-      "path---index-32806a302eefa87f711a.js",
-      "path---index-32806a302eefa87f711a.js.map"
+      "path---index-0a57e8d403af63fba2f1.js",
+      "path---index-0a57e8d403af63fba2f1.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-6e82eaae3f56c620a9ec.js",
+      "commons-3d22f2276effe95e7de3.js",
       "build-js-styles.css",
-      "commons-6e82eaae3f56c620a9ec.js.map",
+      "commons-3d22f2276effe95e7de3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -47,14 +47,18 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-d62c83ad5157e05d1860.js",
+      "app-f8070fc7b7540eddfa9f.js",
       "build-js-styles.css",
-      "app-d62c83ad5157e05d1860.js.map",
+      "app-f8070fc7b7540eddfa9f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tuscan-hiking": [
+      "path---tuscan-hiking-2480856c251bdcf59bec.js",
+      "path---tuscan-hiking-2480856c251bdcf59bec.js.map"
     ]
   }
 }
