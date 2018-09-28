@@ -1,7 +1,8 @@
 ---
 title: Burgundy
 date: "2018-09-15T22:12:03.284Z"
-cover: "salty_egg.jpg"
+coverImage: "./vineyards.jpg"
+draft: "false"
 ---
 
 We are on day 3 of our Europe trip, and we are still at our first stop in a *very* small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. 

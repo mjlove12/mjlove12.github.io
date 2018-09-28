@@ -18,21 +18,29 @@ class Bio extends React.Component {
           textAlign: 'center',
         }}
       >
-        <img
-          src={profilePic}
-          alt={`mattandem`}
+        <Link
           style={{
-            marginRight: rhythm(1 / 2),
-            marginBottom: 0,
-            width: rhythm(2),
-            height: rhythm(2),
-            borderRadius: '50%',
+            boxShadow: 'none',
+            color: 'white'
           }}
-        />
+          to="/"
+        >
+          <img
+            src={profilePic}
+            alt={`mattandem`}
+            style={{
+              marginRight: rhythm(1 / 2),
+              marginBottom: 0,
+              width: rhythm(3),
+              height: rhythm(3),
+              borderRadius: '50%',
+            }}
+          />
+        </Link>
         <br/>
-        <p>
+        <div>
           Sharing our small <strong>adventures</strong> home and abroad.{' '}
-        </p>
+        </div>
         {
           /*
         <ul

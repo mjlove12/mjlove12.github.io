@@ -1,0 +1,29 @@
+p {
+  max-width: 600px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ul {
+  max-width: 600px;
+}
+
+.gatsby-resp-image-wrapper {
+  margin-left: 0px !important;
+}
+
+/*
+.gatsby-resp-image-image {
+  width: 100% !important;
+  border: 1px solid black;
+}
+
+.gatsby-resp-image-wrapper {
+  margin: 0px !important;
+  max-width: 2000px !important;
+}
+*/
+
+h2 {
+  margin-left: 20px;
+}

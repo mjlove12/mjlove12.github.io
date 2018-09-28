@@ -1,13 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Bio from '../components/Bio'
+import './index.css'
 
 import { rhythm, scale } from '../utils/typography'
 
 class Template extends React.Component {
   render() {
     const { location, children } = this.props
-    console.log(children)
 
     let rootPath = `/`
     if (typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__) {
@@ -15,7 +15,7 @@ class Template extends React.Component {
     }
 
     return (
-      <div style={{ margin: 0, height: '100%', position: 'fixed' }}>
+      <div style={{ margin: 0, padding: 0, height: '100%', width: '100%', position: 'fixed' }}>
         <div
           // SIDEBAR
           style={{
@@ -32,12 +32,10 @@ class Template extends React.Component {
         <div
           style={{
             display: 'inline-block',
-            width: 'calc(80% - 20px)',
+            width: '80%',
             verticalAlign: 'top',
-            height: 'calc(100% - 10px)',
+            height: '100%',
             overflow: 'auto',
-            marginLeft: 20,
-            paddingRight: 60,
             color: '#555555',
           }}
         >

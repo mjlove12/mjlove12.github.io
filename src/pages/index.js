@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Img from 'gatsby-image'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
@@ -9,7 +10,6 @@ class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
-    console.log(posts)
 
     return (
       <div>
@@ -17,21 +17,26 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
-            <div key={node.fields.slug}>
-              <h3
+            <div key={node.fields.slug} style={{ width: '100%', position: 'relative', color: 'white' }}>
+              <Img style={{ width: '100%', height: '250px' }} sizes={node.frontmatter.coverImage.childImageSharp.sizes} />
+              <div
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  position: 'absolute',
+                  top: '0px',
+                  left: '8px',
                 }}
               >
-                <Link style={{ boxShadow: 'none', color: '#333333' }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small style={{ color: '#bbbbbb' }}>{node.frontmatter.date}</small>
-              <p
-                style={{ color: '#555555' }} 
-                dangerouslySetInnerHTML={{ __html: node.excerpt }}
-              />
+                <h1
+                  style={{
+                    marginBottom: 0,
+                  }}
+                >
+                  <Link style={{ boxShadow: 'none', color: 'white' }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h1>
+                <small style={{ color: '#333333' }}>{node.frontmatter.date}</small>
+              </div>
             </div>
           )
         })}
@@ -49,7 +54,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { draft: { eq: "false" } } }
+    ) {
       edges {
         node {
           excerpt
@@ -59,6 +67,14 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "DD MMMM, YYYY")
             title
+            coverImage {
+              childImageSharp {
+                sizes(maxWidth: 1200) {
+                  ...GatsbyImageSharpSizes
+                }
+              }    
+            }
+            draft
           }
         }
       }

@@ -16,3 +16,7 @@ Please note that the master branch is automatically generated during deployment.
 `npm run deploy`
 
 The source branch is where the actual commits are tracked for the code and markdown.
+
+## Misc
+
+`gatsby develop` breaks when gastby-cli is upgraded. Not sure why this is the case right now, but can be fixed by rolling back to gatsby-cli@beta

@@ -11,11 +11,12 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { previous, next } = this.props.pathContext
+    console.log(this.props.pathContext)
 
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1 style={{ color: '#555555' }}>{post.frontmatter.title}</h1>
+        <h2 style={{ color: '#555555' }}><large>{post.frontmatter.title}</large></h2>
         <p
           style={{
             ...scale(-1 / 5),
@@ -34,32 +35,36 @@ class BlogPostTemplate extends React.Component {
         />
         <Bio />
 
-        <ul
+        <div
           style={{
             display: 'flex',
             flexWrap: 'wrap',
             justifyContent: 'space-between',
             listStyle: 'none',
             padding: 0,
+            marginTop: '-20px',
+            marginBottom: '20px',
+            marginLeft: '20px',
+            marginRight: '20px',
           }}
         >
-          <li>
+          <div>
             {
-              previous &&
+              console.log(previous) || previous &&
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             }
-          </li>
-          <li>
+          </div>
+          <div>
             {
               next &&
               <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
             }
-          </li>
-        </ul>
+          </div>
+        </div>
       </div>
     )
   }
@@ -81,6 +86,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        draft
       }
     }
   }
