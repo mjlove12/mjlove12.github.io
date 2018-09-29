@@ -13,7 +13,6 @@ class Template extends React.Component {
     if (typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__) {
       rootPath = __PATH_PREFIX__ + `/`
     }
-    console.log(location)
     
     if (location.pathname === rootPath) {
       return (

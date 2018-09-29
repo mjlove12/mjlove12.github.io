@@ -11,7 +11,6 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { previous, next } = this.props.pathContext
-    console.log(this.props.pathContext)
 
     return (
       <div>
@@ -50,7 +49,7 @@ class BlogPostTemplate extends React.Component {
         >
           <div>
             {
-              console.log(previous) || previous &&
+              previous &&
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
