@@ -4,6 +4,8 @@ import Img from 'gatsby-image'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
+import './index.css'
+
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -17,27 +19,33 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
-            <div key={node.fields.slug} style={{ width: '100%', position: 'relative', color: 'white' }}>
-              <Img style={{ width: '100%', height: '250px' }} sizes={node.frontmatter.coverImage.childImageSharp.sizes} />
+            <Link style={{ boxShadow: 'none', color: 'white' }} to={node.fields.slug}>
               <div
-                style={{
-                  position: 'absolute',
-                  top: '0px',
-                  left: '8px',
-                }}
+                key={node.fields.slug}
+                className="cover"
               >
-                <h1
+                <Img 
+                  style={{ width: '100%', height: '250px' }}
+                  sizes={node.frontmatter.coverImage.childImageSharp.sizes}
+                />
+                <div
                   style={{
-                    marginBottom: 0,
+                    position: 'absolute',
+                    top: '0px',
+                    left: '8px',
                   }}
                 >
-                  <Link style={{ boxShadow: 'none', color: 'white' }} to={node.fields.slug}>
+                  <h1
+                    style={{
+                      marginBottom: 0,
+                    }}
+                  >
                     {title}
-                  </Link>
-                </h1>
-                <small style={{ color: 'white' }}>{node.frontmatter.date}</small>
+                  </h1>
+                  <small style={{ color: 'white' }}>{node.frontmatter.date}</small>
+                </div>
               </div>
-            </div>
+            </Link>
           )
         })}
       </div>

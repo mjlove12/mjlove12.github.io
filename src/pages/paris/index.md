@@ -27,7 +27,7 @@ We played the role of the typical tourist and crammed a lot of sites into just a
 
 ![Saint Chapelle](./saintchapelle.jpg "Stained glass windows at Saint Chapelle")
 
-![Dumas](./dumas.jpg "Signs for the graves of Alexander Dumas and Victor Hugo at the Pantheon")
+![Dumas](./dumas.jpg "Signs for the graves of Alexandre Dumas and Victor Hugo at the Pantheon")
 
 In the past, we used to go to tourist attractions and learn virtually nothing, being too cheap to get a personal guide or pay for an audio guide. This time around, we discovered the free walking tour app by Rick Steves. For the most part, we really enjoyed these. Despite the fact that Rick Steves is probably the cheesiest guy in the world, his app gives you good background of the most popular sites while allowing you to explore at your own pace. 
 
@@ -40,6 +40,8 @@ We also spent some time doing some more unique things that really paid off. We s
 ![Program](./program.jpg "Copy of the program. Not mentioned here is the encore, Hungarian Rhapsody No. 2 by Liszt.")
 
 One of our favorite things we did was to picnic under the Eiffel Tower at night. It worked out well because Matt got his piano concert and Em got her picnic. We got some meat, cheese, bread and wine and laid down a little tarp we bought in Maine to use at the beach. We even listened to another Rick Steves audio explanation of the building of the tower while we waited for the lights. 
+
+![Picnic](./picnic.jpg "Our picnic in front of the Eiffel Tower")
 
 ![Matt and Em Eiffel](./mattandemeiffel.jpg)
 

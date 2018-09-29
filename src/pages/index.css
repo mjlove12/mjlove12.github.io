@@ -1,0 +1,12 @@
+.cover:hover {
+  border: 1px solid white;
+  width: 100%;
+  position: relative;
+  color: white;
+}
+
+.cover {
+  width: 100%;
+  position: relative;
+  color: white;
+}

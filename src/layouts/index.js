@@ -29,7 +29,7 @@ class Template extends React.Component {
     } else {
       return (
         <div style={{ margin: 0, padding: 0, height: '100%', width: '100%', position: 'fixed' }}>
-          <div style={{ overflow: 'auto', height: '100%', width: '50%', margin: '0 auto' }}>
+          <div style={{ overflow: 'auto', height: '100%', width: '100%', margin: 'auto 0' }}>
             {children()}
           </div>
         </div>
