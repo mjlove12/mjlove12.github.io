@@ -7,25 +7,25 @@ draft: "false"
 
 We are on day 3 of our Europe trip, and we are still at our first stop in a *very* small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. 
 
-![Vineyards](./vineyards.jpg)
+![Vineyards](./vineyards.jpg "Vineyards right near where we stayed")
 
-![Grapes](./grapes.jpg)
+![Grapes](./grapes.jpg "Pinot Noir grapes in Aloxe-Corton")
 
 There is no grocery store or restaurant in the town. Just many, many vineyards and a couple places to stay. We settled in a gorgeous B&B with the nicest owners.
 
-![Hosts1](./hosts1.jpg)
+![Hosts1](./hosts1.jpg "The B&B we stayed in at Aloxe-Corton")
 
-![Hosts2](./hosts2.jpg)
+![Hosts2](./hosts2.jpg "Excellent breakfast buffet including homemade jams")
 
-![Hosts3](./hosts3.jpg)
+![Hosts3](./hosts3.jpg "Entrance to the B&B")
 
 We are not very wine savvy, so much of the uniqueness of this area is probably wasted on us. However, the physical landscape, the small villages and the old buildings all combine to make a countryside that is *unbelievable*. We have spent the majority of our time biking through vineyards and walking through town.
 
-![Unbelievable](./unbelievable.jpg)
+![Unbelievable](./unbelievable.jpg "Church in Aloxe-Corton")
 
 We've also done two tastings. For the first one, we tried 3 wines in a Chateau. The manager did not know English so we drank wine and looked around. The second tasting was the best education we have ever received in wine (yes, including the few tastings we had in Napa). It was very approachable and got both me and Em really motivated to appreciate wine more.
 
-![Chateau Corton](./chateau.jpg)
+![Chateau Corton](./chateau.jpg "Location of our second tasting - Chateau Corton")
 
 * Here's some simple lessons we learned in the short tasting that I think we will actually remember years from now. Let's call it, Matt and Em's new dummies guide for wine. I'm sure we will revise it as we learn more.
 

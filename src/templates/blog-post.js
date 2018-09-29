@@ -42,7 +42,7 @@ class BlogPostTemplate extends React.Component {
             justifyContent: 'space-between',
             listStyle: 'none',
             padding: 0,
-            marginTop: '-20px',
+            marginTop: '0px',
             marginBottom: '20px',
             marginLeft: '20px',
             marginRight: '20px',

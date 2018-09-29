@@ -13,8 +13,8 @@ class Bio extends React.Component {
     return (
       <div
         style={{
-          marginBottom: rhythm(2.5),
-          marginTop: rhythm(2.5),
+          marginTop: rhythm(1),
+          marginBottom: 0,
           textAlign: 'center',
         }}
       >
@@ -29,7 +29,6 @@ class Bio extends React.Component {
             src={profilePic}
             alt={`mattandem`}
             style={{
-              marginRight: rhythm(1 / 2),
               marginBottom: 0,
               width: rhythm(3),
               height: rhythm(3),
