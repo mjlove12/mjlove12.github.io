@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LoveMattandEm]]></title><description><![CDATA[Sharing our small adventures home and abroad.]]></description><link>https://www.lovemattandem.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Sep 2018 06:38:53 GMT</lastBuildDate><item><title><![CDATA[A Tuscan Routine]]></title><description><![CDATA[Daily routine at the farm.]]></description><link>https://www.lovemattandem.com/tuscan_routine/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_routine/</guid><pubDate>Thu, 27 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Daily routine at the farm.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hiking in Tuscany]]></title><description><![CDATA[Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the…]]></description><link>https://www.lovemattandem.com/tuscan_hiking/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_hiking/</guid><pubDate>Mon, 24 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the year where they voted on a list of hikes. This has led to a schedule where they go to a different place in the area every week, excluding the hottest months of the year - so, let’s guess around 40 different hikes.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LoveMattandEm]]></title><description><![CDATA[Sharing our small adventures home and abroad.]]></description><link>https://www.lovemattandem.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Sep 2018 13:22:43 GMT</lastBuildDate><item><title><![CDATA[A Tuscan Routine]]></title><description><![CDATA[Daily routine at the farm.]]></description><link>https://www.lovemattandem.com/tuscan_routine/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_routine/</guid><pubDate>Thu, 27 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Daily routine at the farm.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hiking in Tuscany]]></title><description><![CDATA[Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the…]]></description><link>https://www.lovemattandem.com/tuscan_hiking/</link><guid isPermaLink="false">https://www.lovemattandem.com/tuscan_hiking/</guid><pubDate>Mon, 24 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Today our wondeful host invited us to join her local “walking group” on their weekly hike. The group had a meeting in the beginning of the year where they voted on a list of hikes. This has led to a schedule where they go to a different place in the area every week, excluding the hottest months of the year - so, let’s guess around 40 different hikes.&lt;/p&gt;
 &lt;p&gt;Are you struck by a new thought? I was. You never think of tuscany as a place to hike. Every picture you see on the internet or in the movies is of rolling hills full of private vineyards and Tuscan farm houses, but Tuscany has tons of forest. &lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-01800.jpg&quot;
+    href=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-b8c33.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,28 +23,33 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Forest&quot;
-        title=&quot;&quot;
-        src=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-f8fb9.jpg&quot;
-        srcset=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-e8976.jpg 148w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-63df2.jpg 295w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-f8fb9.jpg 590w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-85e3d.jpg 885w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-d1924.jpg 1180w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-9452e.jpg 1770w,
-/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-01800.jpg 4032w&quot;
+        title=&quot;View from one of the paths&quot;
+        src=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-1697e.jpg&quot;
+        srcset=&quot;/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-a2cfd.jpg 148w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-3348f.jpg 295w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-1697e.jpg 590w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-6a00a.jpg 885w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-46304.jpg 1180w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-07574.jpg 1770w,
+/static/forest-8ab0a5d85a135824bcbfe821c0bd2fef-b8c33.jpg 4032w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;View from one of the paths&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;We set out with a group of 15 people - 3 Germans, 6 Italians, and your 2 favorite Americans - to cover a total of 14km. This took us roughly 6 hours and was way more intense than I expected. The terrain was challenging with rocky ground, narrow paths, and lots of brush and elevation. We saw signs of wild boars, and a couple mushrooms, which the Italians go crazy for including Porcini. One of the group members described a mushroom she picked that was large enough that she sliced it and cooked it as if it were a steak.&lt;/p&gt;
 &lt;p&gt;We stopped twice to picnic, but we tried to show no signs of exhuastion since we were the youngest participants. In fact, there was an 82 year old Italian woman ahead of us most of the time, trudging along and making it look easy.&lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/group-844821517e8d2a559421d109b1dff774-01800.jpg&quot;
+    href=&quot;/static/group-844821517e8d2a559421d109b1dff774-b8c33.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -60,28 +67,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Group&quot;
-        title=&quot;&quot;
-        src=&quot;/static/group-844821517e8d2a559421d109b1dff774-f8fb9.jpg&quot;
-        srcset=&quot;/static/group-844821517e8d2a559421d109b1dff774-e8976.jpg 148w,
-/static/group-844821517e8d2a559421d109b1dff774-63df2.jpg 295w,
-/static/group-844821517e8d2a559421d109b1dff774-f8fb9.jpg 590w,
-/static/group-844821517e8d2a559421d109b1dff774-85e3d.jpg 885w,
-/static/group-844821517e8d2a559421d109b1dff774-d1924.jpg 1180w,
-/static/group-844821517e8d2a559421d109b1dff774-9452e.jpg 1770w,
-/static/group-844821517e8d2a559421d109b1dff774-01800.jpg 4032w&quot;
+        title=&quot;Most of the walking group during a particularly open stretch&quot;
+        src=&quot;/static/group-844821517e8d2a559421d109b1dff774-1697e.jpg&quot;
+        srcset=&quot;/static/group-844821517e8d2a559421d109b1dff774-a2cfd.jpg 148w,
+/static/group-844821517e8d2a559421d109b1dff774-3348f.jpg 295w,
+/static/group-844821517e8d2a559421d109b1dff774-1697e.jpg 590w,
+/static/group-844821517e8d2a559421d109b1dff774-6a00a.jpg 885w,
+/static/group-844821517e8d2a559421d109b1dff774-46304.jpg 1180w,
+/static/group-844821517e8d2a559421d109b1dff774-07574.jpg 1770w,
+/static/group-844821517e8d2a559421d109b1dff774-b8c33.jpg 4032w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Most of the walking group during a particularly open stretch&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;Although I tried to speak some Italian, I really need to work on my listening skills, and it was broken at best. Everyone was very kind, but our host was the only participant that could speak to everyone since she is fully fluent in English, German and Italian&lt;sup&gt;&lt;a href=&quot;#footnote1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Em and I were in awe watching her switch constantly between the three languages. Every now and then, she would turn to us to ask us a question or make a comment, but accidentally start off in German or Italian. &lt;/p&gt;
 &lt;p&gt;The views were amazing, it was a good workout, and we got a little glimpse into a lifestyle and people whose lives are very different from ours. All in all, a good day.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-01800.jpg&quot;
+    href=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-b8c33.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -100,14 +110,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Matt and Em&quot;
         title=&quot;&quot;
-        src=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-f8fb9.jpg&quot;
-        srcset=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-e8976.jpg 148w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-63df2.jpg 295w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-f8fb9.jpg 590w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-85e3d.jpg 885w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-d1924.jpg 1180w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-9452e.jpg 1770w,
-/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-01800.jpg 4032w&quot;
+        src=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-1697e.jpg&quot;
+        srcset=&quot;/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-a2cfd.jpg 148w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-3348f.jpg 295w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-1697e.jpg 590w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-6a00a.jpg 885w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-46304.jpg 1180w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-07574.jpg 1770w,
+/static/mattandem-8b7f6d1ccc50b5bda3ec78578e6ccedd-b8c33.jpg 4032w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -138,11 +148,691 @@
 &lt;p&gt;The great thing about many of these places is that they are rich with history and showcase the best of the best. That’s why we have started to try and have some sort of audioguide when we visit a tourist site. We want to learn as much as we can on the spot, learn a little bit about what makes these places so unique, what it tells us about human history, and bask in the things that connect us all. This is about understanding what we all have in common. Our shared past, history etc.&lt;/p&gt;
 &lt;p&gt;** OFF THE BEATEN PATH **&lt;/p&gt;
 &lt;p&gt;Chopin Concert, Pugliese Dinner in Italy, Pizza in France, Biking in Burgundy, Airbnb’s&lt;/p&gt;
-&lt;p&gt;The great thing about the places that are off the beaten path is that you get to learn a little bit about how others live their lives. You get to learn about other cultures, their problems, their successes, etc. This is about understanding the things that make us different. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://www.lovemattandem.com/burgundy/</link><guid isPermaLink="false">https://www.lovemattandem.com/burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
+&lt;p&gt;The great thing about the places that are off the beaten path is that you get to learn a little bit about how others live their lives. You get to learn about other cultures, their problems, their successes, etc. This is about understanding the things that make us different. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Paris]]></title><description><![CDATA[At the advice of some friends, we spent the majority of our France trip in Paris - 6 days. Everyone told us that we would not run out of…]]></description><link>https://www.lovemattandem.com/paris/</link><guid isPermaLink="false">https://www.lovemattandem.com/paris/</guid><pubDate>Fri, 21 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;At the advice of some friends, we spent the majority of our France trip in Paris - 6 days. Everyone told us that we would not run out of things to do there and they were right. The city reminds me of Rome - with it’s regal apartments and the way that the modern world mixes seamlessely with various historical periods - but larger. &lt;/p&gt;
+&lt;p&gt;In fact, we sort of made a mistake by treating it like Rome. In Rome, you could walk to the Pantheon, Spanish Steps, Piazza Navona, Vatican, Borghese Gardens all in a day, but when we tried to mix a few sites in Paris we ended up spending a lot of time just walking. This is a minor thing to complain about though, when you can walk along the gorgeous Seine and stop anywhere for beer. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-253af.jpg&quot;
+    href=&quot;/static/river1-66d8e0521c9573f359fdc4667771ef8d-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAZ0UGHmgWDf/xAAbEAEAAgIDAAAAAAAAAAAAAAABAgMAEBESI//aAAgBAQABBQKtqZHUy+30gGmPL//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGrj//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAIAQIBAT8BjJo//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEhMRARUf/aAAgBAQAGPwLhDIWysWz/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhQZH/2gAIAQEAAT8hrLQCiyIsGArEZc1Y8mHJctU//9oADAMBAAIAAwAAABArD//EABYRAAMAAAAAAAAAAAAAAAAAABARUf/aAAgBAwEBPxBIH//EABYRAQEBAAAAAAAAAAAAAAAAAAEQQf/aAAgBAgEBPxADY//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExUUGBwf/aAAgBAQABPxBVgA6m/sNiFd61MOwWHNQKgd8CNV1fcbnhgM//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;River1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/river1-66d8e0521c9573f359fdc4667771ef8d-1697e.jpg&quot;
+        srcset=&quot;/static/river1-66d8e0521c9573f359fdc4667771ef8d-a2cfd.jpg 148w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-3348f.jpg 295w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-1697e.jpg 590w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-6a00a.jpg 885w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-46304.jpg 1180w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-07574.jpg 1770w,
+/static/river1-66d8e0521c9573f359fdc4667771ef8d-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/river2-fdc12709ff559015d61c9b9ed402b5e9-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdELaNLMWCv/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDERMS/9oACAEBAAEFAnllHWR5p36odtnXR//EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAgBAwEBPwGEY//EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwG2Wz//xAAZEAACAwEAAAAAAAAAAAAAAAAAEBExoTL/2gAIAQEABj8Cpc6XiiD/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhcTFB/9oACAEBAAE/Icx6nw9XM6JMDo3AoJycEyxhH//aAAwDAQACAAMAAAAQT8//xAAWEQEBAQAAAAAAAAAAAAAAAAABEFH/2gAIAQMBAT8QRkP/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QGxn/AP/EABsQAQEBAAIDAAAAAAAAAAAAAAERACFBUXGB/9oACAEBAAE/EC1CaaE0qHxZv3EUJ0g1sV9MIC3QMPFDjnf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;River2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/river2-fdc12709ff559015d61c9b9ed402b5e9-1697e.jpg&quot;
+        srcset=&quot;/static/river2-fdc12709ff559015d61c9b9ed402b5e9-a2cfd.jpg 148w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-3348f.jpg 295w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-1697e.jpg 590w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-6a00a.jpg 885w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-46304.jpg 1180w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-07574.jpg 1770w,
+/static/river2-fdc12709ff559015d61c9b9ed402b5e9-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mattlove-1adc2a94924636ee6bc94a90f79899da-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//aAAwDAQACEAMQAAABJWWpPWLQ/8QAGhAAAwADAQAAAAAAAAAAAAAAAQIRAAMhMf/aAAgBAQABBQKpKmPtRSTwk1vf/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oACAEDAQE/AZRKP//EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwG2Wz//xAAXEAADAQAAAAAAAAAAAAAAAAAAETEQ/9oACAEBAAY/AmyiuXP/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhYUFx/9oACAEBAAE/IWp2j7hCKdOLB+Xq6OJor0f/2gAMAwEAAgADAAAAEOgf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EMEH/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFR/9oACAECAQE/EHdX/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAITFBUWGx/9oACAEBAAE/EIZAzg/rLqfhK48PYo9fOslI0OEu7SOa3Ubdd//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;mattlove&quot;
+        title=&quot;&quot;
+        src=&quot;/static/mattlove-1adc2a94924636ee6bc94a90f79899da-1697e.jpg&quot;
+        srcset=&quot;/static/mattlove-1adc2a94924636ee6bc94a90f79899da-a2cfd.jpg 148w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-3348f.jpg 295w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-1697e.jpg 590w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-6a00a.jpg 885w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-46304.jpg 1180w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-07574.jpg 1770w,
+/static/mattlove-1adc2a94924636ee6bc94a90f79899da-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABRhFiGWC//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBEhMD/9oACAEBAAEFAtFNlH6szVJUpB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEv/aAAgBAwEBPwGT/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAS/9oACAECAQE/AbK//8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBEDEh/9oACAEBAAY/AsJ4No2Ta//EABwQAAICAgMAAAAAAAAAAAAAAAABESFBYTGR0f/aAAgBAQABPyG70XI+OxlkTCGTcHJns//aAAwDAQACAAMAAAAQly//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEVH/2gAIAQMBAT8QjEf/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAECAQE/ENBun//EABwQAQACAwADAAAAAAAAAAAAAAEAESExUUGR0f/aAAgBAQABPxDSfQwOoVvqpeIHA6PEE0TW8fIIIp3BmDWZf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;emlove&quot;
+        title=&quot;&quot;
+        src=&quot;/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-1697e.jpg&quot;
+        srcset=&quot;/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-a2cfd.jpg 148w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-3348f.jpg 295w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-1697e.jpg 590w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-6a00a.jpg 885w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-46304.jpg 1180w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-07574.jpg 1770w,
+/static/emlove-1ecd099da9be5e12d38fbcd365dadd81-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/beer-83de0fe171534985d1f488f721558205-fb06d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCAwEEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABfaFqUejEhObZxs0DANf/xAAbEAACAwEBAQAAAAAAAAAAAAABAgADERIEE//aAAgBAQABBQKV3A2ciWXogLd3L62SPw1rLS0+GzBMEU4P/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQESES/9oACAEDAQE/AVuFOOmf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AXD/xAAcEAABBAMBAAAAAAAAAAAAAAAAAQIRIRASMWH/2gAIAQEABj8CFa5e8xKqbSQ6y3UVCO8Jk5ij/8QAHBABAAMBAQADAAAAAAAAAAAAAQARITFBUWGB/9oACAEBAAE/If2aUXmpZqXACN8IeJrgHIE7R7Cbg6QywAxxMD0+o1cQ+AjU4J//2gAMAwEAAgADAAAAEMTEwf/EABgRAQEBAQEAAAAAAAAAAAAAAAERAEFh/9oACAEDAQE/EDUdyTMMab23/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhEBEx/9oACAECAQE/EHKyDW+4f//EAB4QAQEAAgICAwAAAAAAAAAAAAERADFBYSGBcbHB/9oACAEBAAE/EIvLLjrUZ96uLmo8uIAKQKvfrGQRBsIO9XxlA1ItzjEQASJxuD279GULYxU98ZNigpRhXB+DLvywcxTUM//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Beer&quot;
+        title=&quot;Em drinking a beer next to the river&quot;
+        src=&quot;/static/beer-83de0fe171534985d1f488f721558205-1697e.jpg&quot;
+        srcset=&quot;/static/beer-83de0fe171534985d1f488f721558205-a2cfd.jpg 148w,
+/static/beer-83de0fe171534985d1f488f721558205-3348f.jpg 295w,
+/static/beer-83de0fe171534985d1f488f721558205-1697e.jpg 590w,
+/static/beer-83de0fe171534985d1f488f721558205-6a00a.jpg 885w,
+/static/beer-83de0fe171534985d1f488f721558205-46304.jpg 1180w,
+/static/beer-83de0fe171534985d1f488f721558205-07574.jpg 1770w,
+/static/beer-83de0fe171534985d1f488f721558205-fb06d.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Em drinking a beer next to the river&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;We played the role of the typical tourist and crammed a lot of sites into just a few days, including 2 days with the Paris museum pass in which we went to Saint Chapelle, the Concierge, the Pantheon, the Louvre and Versailles.&lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-d53fe.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/9oADAMBAAIQAxAAAAHTSmhD7RDaM7SrJGFK/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAECAxESExAx/9oACAEBAAEFAsH0wWXRZ01fes1iUwTu1j5hp5Z//8QAFxEAAwEAAAAAAAAAAAAAAAAAABAREv/aAAgBAwEBPwHJH//EABYRAQEBAAAAAAAAAAAAAAAAABIAEP/aAAgBAgEBPwFS3//EABwQAAICAgMAAAAAAAAAAAAAAAABEDECEQMhgf/aAAgBAQAGPwKdYv06LKRybRUMo//EAB0QAAIBBQEBAAAAAAAAAAAAAAABIRARMUFhkXH/2gAIAQEAAT8hEYO9OmDygl0mtPYmq8eWEpx5E4yWL/TlomCJOT0//9oADAMBAAIAAwAAABBMK0z/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8QU8b/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/EMkv/8QAIBABAAICAgEFAAAAAAAAAAAAAQARIVFhcaEQkbHB0f/aAAgBAQABPxBgLKqNNeikOljPscy93FkqDrvUAIpMp2eJbhuwRIN1UreWfErABDiXCaPu7U+Y2fZ/J//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;LouvreMatt&quot;
+        title=&quot;Matt in front of the Louvre&quot;
+        src=&quot;/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-1697e.jpg&quot;
+        srcset=&quot;/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-a2cfd.jpg 148w,
+/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-3348f.jpg 295w,
+/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-1697e.jpg 590w,
+/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-6a00a.jpg 885w,
+/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-46304.jpg 1180w,
+/static/louvrematt-8ffef6c2eab7c5a2ee81ef7a1089d28b-d53fe.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Matt in front of the Louvre&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/versailles-1712bdd9b2adc00c8521893ccf98e867-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAamryxpKBP/EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMTEf/aAAgBAQABBQKogLuvXe1mUw2HUtP/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABsQAAEEAwAAAAAAAAAAAAAAAAEAAhAREiFh/9oACAEBAAY/AlQG1YDqjLsf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/IdRfbwuJtyfORqAuBMZoQstU0n//2gAMAwEAAgADAAAAEJvf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxCHrIj/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EKWIrP/EAB0QAQACAgIDAAAAAAAAAAAAAAEAIRExQVFhsfH/2gAIAQEAAT8QNgQqz8QgjAMyfEsHZoBGBUtcBgrVeonDZ3P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Versailles&quot;
+        title=&quot;Em at the Palace of Versailles&quot;
+        src=&quot;/static/versailles-1712bdd9b2adc00c8521893ccf98e867-1697e.jpg&quot;
+        srcset=&quot;/static/versailles-1712bdd9b2adc00c8521893ccf98e867-a2cfd.jpg 148w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-3348f.jpg 295w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-1697e.jpg 590w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-6a00a.jpg 885w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-46304.jpg 1180w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-07574.jpg 1770w,
+/static/versailles-1712bdd9b2adc00c8521893ccf98e867-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Em at the Palace of Versailles&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-d8393.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 146.25228519195613%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAcWneRkBi6uqSYuT/8QAGxAAAgMBAQEAAAAAAAAAAAAAAQIAAxESIQT/2gAIAQEAAQUCbwxMwrsaoqOdnR6awsA0B9+uta02f//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAMAAwEAAAAAAAAAAAAAAAEQEQACIRL/2gAIAQEABj8CXcAGW1yAPXyJ1f/EABwQAQACAgMBAAAAAAAAAAAAAAEAIRExEEFRYf/aAAgBAQABPyEC494w6oj2JTAG5QJ5MAQ1KSDtih1EhsuIb+cP/9oADAMBAAIAAwAAABB72kL/xAAYEQACAwAAAAAAAAAAAAAAAAAAEBEhQf/aAAgBAwEBPxAgrV//xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EG1d4lf/xAAeEAEAAgICAwEAAAAAAAAAAAABABEhQVFxMWGhgf/aAAgBAQABPxAhFiq6g1r5AwF7ss1APtlL9iE+EDUuc4RA61jHqJjsA5g0sfkoO5bfZgbAO3mCDmf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Saint Chapelle&quot;
+        title=&quot;Stained glass windows at Saint Chapelle&quot;
+        src=&quot;/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-1697e.jpg&quot;
+        srcset=&quot;/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-a2cfd.jpg 148w,
+/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-3348f.jpg 295w,
+/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-1697e.jpg 590w,
+/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-6a00a.jpg 885w,
+/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-46304.jpg 1180w,
+/static/saintchapelle-b759c0ba88917c24dabc9ee1c000f97c-d8393.jpg 1641w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Stained glass windows at Saint Chapelle&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 79.58333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQACBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHlASsWZH//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAXEAEBAQEAAAAAAAAAAAAAAAAAAREh/9oACAEBAAE/IXFata//2gAMAwEAAgADAAAAECMP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EFtL/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EJGP/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARIUH/2gAIAQEAAT8QEJxAWdHTkB5I2//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dumas&quot;
+        title=&quot;Signs for the graves of Alexandre Dumas and Victor Hugo at the Pantheon&quot;
+        src=&quot;/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-1697e.jpg&quot;
+        srcset=&quot;/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-a2cfd.jpg 148w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-3348f.jpg 295w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-1697e.jpg 590w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-6a00a.jpg 885w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-46304.jpg 1180w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-07574.jpg 1770w,
+/static/dumas-5ddbcb65f8e3f4064e434274b325e02e-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Signs for the graves of Alexandre Dumas and Victor Hugo at the Pantheon&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;In the past, we used to go to tourist attractions and learn virtually nothing, being too cheap to get a personal guide or pay for an audio guide. This time around, we discovered the free walking tour app by Rick Steves. For the most part, we really enjoyed these. Despite the fact that Rick Steves is probably the cheesiest guy in the world, his app gives you good background of the most popular sites while allowing you to explore at your own pace. &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/louvre-d476981c5e06de6381f2294978a519b2-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAG8IbFNHJLP/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABIREyH/2gAIAQEAAQUCrPaipxjD3sY4rFg9Tv8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQIBAT8BpmH/xAAZEAEBAQADAAAAAAAAAAAAAAABABECEHH/2gAIAQEABj8CfLEeuetrN//EABsQAAICAwEAAAAAAAAAAAAAAAERACExUWGR/9oACAEBAAE/ITULD0E4dT7ijDFZiJExuGXk4oa7P//aAAwDAQACAAMAAAAQlw//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EEQ7av/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFh/9oACAECAQE/EEs0bH//xAAbEAEAAwADAQAAAAAAAAAAAAABABExIUFRgf/aAAgBAQABPxBTodlF6kDDewcVZvmwTbKHbmoooVGrfvyKa5hbcLQeVan/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Louvre&quot;
+        title=&quot;Em listening to the audioguide at the Louvre&quot;
+        src=&quot;/static/louvre-d476981c5e06de6381f2294978a519b2-1697e.jpg&quot;
+        srcset=&quot;/static/louvre-d476981c5e06de6381f2294978a519b2-a2cfd.jpg 148w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-3348f.jpg 295w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-1697e.jpg 590w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-6a00a.jpg 885w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-46304.jpg 1180w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-07574.jpg 1770w,
+/static/louvre-d476981c5e06de6381f2294978a519b2-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Em listening to the audioguide at the Louvre&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;We also spent some time doing some more unique things that really paid off. We saw an advertisement for a piano concert in the oldest church in Paris, St. Julien le Pauvre, and decided to go that very night. The program consisted of popular Beethoven Sonatas and Chopin pieces, including some of Matt’s favorites. It was an evening of very beautiful music in an intimate setting for a very good price. &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/piano-f070d0d76caf261dedfc6e19a4e82d57-b8c33.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGB89RpEI//xAAaEAEAAgMBAAAAAAAAAAAAAAACAQMAESEi/9oACAEBAAEFAg5Niu9WdW+bwIRH/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEDBQAAAAAAAAAAAAAAAAEAAhARISIxgf/aAAgBAQAGPwImukbwYyDj1f/EABoQAAMBAQEBAAAAAAAAAAAAAAABESFBMZH/2gAIAQEAAT8hPJTR99Ko+oUqmvohoUvB/9oADAMBAAIAAwAAABDDH//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAQv//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIj/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGBkf/aAAgBAQABPxBepUF4XYdRSUrpo5SgZaW1i0JU3qHf2IN85USGxWQV6M//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Piano&quot;
+        title=&quot;Concert at Saint Julien le Pauvre&quot;
+        src=&quot;/static/piano-f070d0d76caf261dedfc6e19a4e82d57-1697e.jpg&quot;
+        srcset=&quot;/static/piano-f070d0d76caf261dedfc6e19a4e82d57-a2cfd.jpg 148w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-3348f.jpg 295w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-1697e.jpg 590w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-6a00a.jpg 885w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-46304.jpg 1180w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-07574.jpg 1770w,
+/static/piano-f070d0d76caf261dedfc6e19a4e82d57-b8c33.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Concert at Saint Julien le Pauvre&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-fb06d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQADAv/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABZ0mi4jNw7GJn/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQMAIQIQEjP/2gAIAQEAAQUCJ2u8IYml9TI2vz1//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhABAQEAAAAAAAAAAAAAAAAAARAg/9oACAEBAAY/Aimi/wD/xAAbEAEBAQACAwAAAAAAAAAAAAABACEQETFRof/aAAgBAQABPyFEWdMMObepw3h7IFXXW8pJ8fDf/9oADAMBAAIAAwAAABBzFQ//xAAWEQADAAAAAAAAAAAAAAAAAAABIDH/2gAIAQMBAT8QNT//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRYYGR0f/aAAgBAQABPxASlATLenUXm/fyACgL1AgVJmWiEWlAPMxbdphcandxOQxwTiN1NsDJMmf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Program&quot;
+        title=&quot;Copy of the program. Not mentioned here is the encore, Hungarian Rhapsody No. 2 by Liszt.&quot;
+        src=&quot;/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-1697e.jpg&quot;
+        srcset=&quot;/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-a2cfd.jpg 148w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-3348f.jpg 295w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-1697e.jpg 590w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-6a00a.jpg 885w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-46304.jpg 1180w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-07574.jpg 1770w,
+/static/program-f6f2a0ff80ab9c63aceccfbb842ad0fb-fb06d.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Copy of the program. Not mentioned here is the encore, Hungarian Rhapsody No. 2 by Liszt.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;One of our favorite things we did was to picnic under the Eiffel Tower at night. It worked out well because Matt got his piano concert and Em got her picnic. We got some meat, cheese, bread and wine and laid down a little tarp we bought in Maine to use at the beach. We even listened to another Rick Steves audio explanation of the building of the tower while we waited for the lights. &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAdNnMQjQUkf/xAAaEAACAwEBAAAAAAAAAAAAAAACAwABBBAS/9oACAEBAAEFAh2JKE1MLQv1Uvn/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BZH//xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AVTTP//EABsQAAIBBQAAAAAAAAAAAAAAAAABIQIRICKB/9oACAEBAAY/ApuuD3RFLeH/xAAZEAADAQEBAAAAAAAAAAAAAAABESEAMVH/2gAIAQEAAT8hXB1VxgaQOKvPFHpxHEZbid//2gAMAwEAAgADAAAAEJv/AP/EABgRAAIDAAAAAAAAAAAAAAAAAAABETFh/9oACAEDAQE/EHFMyP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEWH/2gAIAQIBAT8QDNLvf//EABwQAQEBAQACAwAAAAAAAAAAAAERACExQXGBsf/aAAgBAQABPxCfnCuB9lP3GPlOlcXkxQ+AF+t4wzAXTUuRa7//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Picnic&quot;
+        title=&quot;Our picnic in front of the Eiffel Tower&quot;
+        src=&quot;/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-1697e.jpg&quot;
+        srcset=&quot;/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-a2cfd.jpg 148w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-3348f.jpg 295w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-1697e.jpg 590w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-6a00a.jpg 885w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-46304.jpg 1180w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-07574.jpg 1770w,
+/static/picnic-3a2ab2e74beb40ffd3c23b353afc352b-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Our picnic in front of the Eiffel Tower&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-b8c33.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAByyhXKohP/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEQMS/9oACAEBAAEFAmhlqZPLNj0swUn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAECAQE/AdK//8QAFhAAAwAAAAAAAAAAAAAAAAAAESBB/9oACAEBAAY/AjG//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARMUFhIf/aAAgBAQABPyHIzqLF2CHhNPZuAKqpgFn/2gAMAwEAAgADAAAAEHvP/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQMBAT8QZD//xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAgEBPxBM7//EABsQAQEAAwADAAAAAAAAAAAAAAERACFhMUFR/9oACAEBAAE/ELpbzlpjp7oOu4blDmFSIEYtnx5mhAIRSSYCm01z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Matt and Em Eiffel&quot;
+        title=&quot;&quot;
+        src=&quot;/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-1697e.jpg&quot;
+        srcset=&quot;/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-a2cfd.jpg 148w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-3348f.jpg 295w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-1697e.jpg 590w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-6a00a.jpg 885w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-46304.jpg 1180w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-07574.jpg 1770w,
+/static/mattandemeiffel-0ef11137d43c2f6c0713915305d24a11-b8c33.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Although it may seem cliche, we simply couldn’t stop taking photos of the Eiffel Tower. It’s modern design really leaps out of the Parisian landscape and provides an amazing focal point.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFxma1FKToP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECERIT/9oACAEBAAEFApQkjmTbyKpnrZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFn/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECMpEQIUH/2gAIAQEABj8Cx0mpN1mnus//xAAaEAADAQADAAAAAAAAAAAAAAAAARExQVGB/9oACAEBAAE/IUSCyFHkRfLofR+AjjQ//9oADAMBAAIAAwAAABD8H//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAC2//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBLY3//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhQTFRcYGhwf/aAAgBAQABPxBjCUOe8yhDXMdbyUxLiNRV0+5URytqahhdLN/k/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Eiffel 1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-1697e.jpg&quot;
+        srcset=&quot;/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-a2cfd.jpg 148w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-3348f.jpg 295w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-1697e.jpg 590w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-6a00a.jpg 885w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-46304.jpg 1180w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-07574.jpg 1770w,
+/static/eiffelday-e24d221a6cf457a5fd6acb53a91df031-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF1WZiPEkqf/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAwQSFP/aAAgBAQABBQJwcnBO3kR6KSeW2//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8BpiH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQIBAT8BFt3/xAAZEAACAwEAAAAAAAAAAAAAAAAAIRARIjL/2gAIAQEABj8Cl6KTOj//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMXGB/9oACAEBAAE/IVjV3rHkY6etl5FTWlk28P/aAAwDAQACAAMAAAAQYw//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQMBAT8QS5D/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qiaf/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRkYH/2gAIAQEAAT8QowB4wXjOpBRC7NeiZcguNLvEWkrwqD5P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Eiffel 2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-1697e.jpg&quot;
+        srcset=&quot;/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-a2cfd.jpg 148w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-3348f.jpg 295w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-1697e.jpg 590w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-6a00a.jpg 885w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-46304.jpg 1180w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-07574.jpg 1770w,
+/static/eiffelmid-ce166e11f6d3a9e490ea0e34e91e87a2-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-3602c.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHP0TiYFf/EABkQAAIDAQAAAAAAAAAAAAAAAAABAgMxEv/aAAgBAQABBQIsXMiO6j//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAEBEBMf/aAAgBAQAGPwImKnF//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECExUf/aAAgBAQABPyGCvDDAout1FPUbvH//2gAMAwEAAgADAAAAEEQP/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EFB//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EF2f/8QAGhABAQADAQEAAAAAAAAAAAAAAREAECFBMf/aAAgBAQABPxA7i2UxG3zRMS+jxyEgZg/b5r//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Eiffel 3&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-1697e.jpg&quot;
+        srcset=&quot;/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-a2cfd.jpg 148w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-3348f.jpg 295w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-1697e.jpg 590w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-6a00a.jpg 885w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-46304.jpg 1180w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-07574.jpg 1770w,
+/static/eiffeldark-578e1e1c5fff7978f3b386d9f7ae00fc-3602c.jpg 2400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Burgundy]]></title><description><![CDATA[We are on day 3 of our Europe trip, and we are still at our first stop in a  very  small village in Burgundy called Aloxe-Corton. It is a 1…]]></description><link>https://www.lovemattandem.com/burgundy/</link><guid isPermaLink="false">https://www.lovemattandem.com/burgundy/</guid><pubDate>Sat, 15 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;We are on day 3 of our Europe trip, and we are still at our first stop in a &lt;em&gt;very&lt;/em&gt; small village in Burgundy called Aloxe-Corton. It is a 10 minute drive from the large-ish town of Beaune and surrounded by vineyards. &lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-3602c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -160,26 +850,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Vineyards&quot;
-        title=&quot;&quot;
-        src=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-f8fb9.jpg&quot;
-        srcset=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-e8976.jpg 148w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-63df2.jpg 295w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-f8fb9.jpg 590w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-85e3d.jpg 885w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-d1924.jpg 1180w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-9452e.jpg 1770w,
-/static/vineyards-7454a9f4a43bf9606650b51a9a061335-253af.jpg 2400w&quot;
+        title=&quot;Vineyards right near where we stayed&quot;
+        src=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-1697e.jpg&quot;
+        srcset=&quot;/static/vineyards-7454a9f4a43bf9606650b51a9a061335-a2cfd.jpg 148w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-3348f.jpg 295w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-1697e.jpg 590w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-6a00a.jpg 885w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-46304.jpg 1180w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-07574.jpg 1770w,
+/static/vineyards-7454a9f4a43bf9606650b51a9a061335-3602c.jpg 2400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Vineyards right near where we stayed&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-253af.jpg&quot;
+    href=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-3602c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -197,27 +892,32 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Grapes&quot;
-        title=&quot;&quot;
-        src=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-f8fb9.jpg&quot;
-        srcset=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-e8976.jpg 148w,
-/static/grapes-d368488629f6e16082f311d9f5792728-63df2.jpg 295w,
-/static/grapes-d368488629f6e16082f311d9f5792728-f8fb9.jpg 590w,
-/static/grapes-d368488629f6e16082f311d9f5792728-85e3d.jpg 885w,
-/static/grapes-d368488629f6e16082f311d9f5792728-d1924.jpg 1180w,
-/static/grapes-d368488629f6e16082f311d9f5792728-9452e.jpg 1770w,
-/static/grapes-d368488629f6e16082f311d9f5792728-253af.jpg 2400w&quot;
+        title=&quot;Pinot Noir grapes in Aloxe-Corton&quot;
+        src=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-1697e.jpg&quot;
+        srcset=&quot;/static/grapes-d368488629f6e16082f311d9f5792728-a2cfd.jpg 148w,
+/static/grapes-d368488629f6e16082f311d9f5792728-3348f.jpg 295w,
+/static/grapes-d368488629f6e16082f311d9f5792728-1697e.jpg 590w,
+/static/grapes-d368488629f6e16082f311d9f5792728-6a00a.jpg 885w,
+/static/grapes-d368488629f6e16082f311d9f5792728-46304.jpg 1180w,
+/static/grapes-d368488629f6e16082f311d9f5792728-07574.jpg 1770w,
+/static/grapes-d368488629f6e16082f311d9f5792728-3602c.jpg 2400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Pinot Noir grapes in Aloxe-Corton&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;There is no grocery store or restaurant in the town. Just many, many vineyards and a couple places to stay. We settled in a gorgeous B&amp;#x26;B with the nicest owners.&lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-253af.jpg&quot;
+    href=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-3602c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -235,26 +935,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Hosts1&quot;
-        title=&quot;&quot;
-        src=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-f8fb9.jpg&quot;
-        srcset=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-e8976.jpg 148w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-63df2.jpg 295w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-f8fb9.jpg 590w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-85e3d.jpg 885w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-d1924.jpg 1180w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-9452e.jpg 1770w,
-/static/hosts1-c83e10addd66da5920df7211c7c78347-253af.jpg 2400w&quot;
+        title=&quot;The B&amp;B we stayed in at Aloxe-Corton&quot;
+        src=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-1697e.jpg&quot;
+        srcset=&quot;/static/hosts1-c83e10addd66da5920df7211c7c78347-a2cfd.jpg 148w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-3348f.jpg 295w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-1697e.jpg 590w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-6a00a.jpg 885w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-46304.jpg 1180w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-07574.jpg 1770w,
+/static/hosts1-c83e10addd66da5920df7211c7c78347-3602c.jpg 2400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;The B&amp;B we stayed in at Aloxe-Corton&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-253af.jpg&quot;
+    href=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-3602c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -272,26 +977,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Hosts2&quot;
-        title=&quot;&quot;
-        src=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-f8fb9.jpg&quot;
-        srcset=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-e8976.jpg 148w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-63df2.jpg 295w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-f8fb9.jpg 590w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-85e3d.jpg 885w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-d1924.jpg 1180w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-9452e.jpg 1770w,
-/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-253af.jpg 2400w&quot;
+        title=&quot;Excellent breakfast buffet including homemade jams&quot;
+        src=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-1697e.jpg&quot;
+        srcset=&quot;/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-a2cfd.jpg 148w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-3348f.jpg 295w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-1697e.jpg 590w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-6a00a.jpg 885w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-46304.jpg 1180w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-07574.jpg 1770w,
+/static/hosts2-9121af8d98a82422c448bd013bd3fb3a-3602c.jpg 2400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Excellent breakfast buffet including homemade jams&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-30631.jpg&quot;
+    href=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-d53fe.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -309,26 +1019,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Hosts3&quot;
-        title=&quot;&quot;
-        src=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-f8fb9.jpg&quot;
-        srcset=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-e8976.jpg 148w,
-/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-63df2.jpg 295w,
-/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-f8fb9.jpg 590w,
-/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-85e3d.jpg 885w,
-/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-d1924.jpg 1180w,
-/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-30631.jpg 1600w&quot;
+        title=&quot;Entrance to the B&amp;B&quot;
+        src=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-1697e.jpg&quot;
+        srcset=&quot;/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-a2cfd.jpg 148w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-3348f.jpg 295w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-1697e.jpg 590w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-6a00a.jpg 885w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-46304.jpg 1180w,
+/static/hosts3-dffd9b76f868c0bbaaf3537df1331a71-d53fe.jpg 1600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Entrance to the B&amp;B&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;We are not very wine savvy, so much of the uniqueness of this area is probably wasted on us. However, the physical landscape, the small villages and the old buildings all combine to make a countryside that is &lt;em&gt;unbelievable&lt;/em&gt;. We have spent the majority of our time biking through vineyards and walking through town.&lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-30631.jpg&quot;
+    href=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-d53fe.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -346,26 +1061,31 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Unbelievable&quot;
-        title=&quot;&quot;
-        src=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-f8fb9.jpg&quot;
-        srcset=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-e8976.jpg 148w,
-/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-63df2.jpg 295w,
-/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-f8fb9.jpg 590w,
-/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-85e3d.jpg 885w,
-/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-d1924.jpg 1180w,
-/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-30631.jpg 1600w&quot;
+        title=&quot;Church in Aloxe-Corton&quot;
+        src=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-1697e.jpg&quot;
+        srcset=&quot;/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-a2cfd.jpg 148w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-3348f.jpg 295w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-1697e.jpg 590w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-6a00a.jpg 885w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-46304.jpg 1180w,
+/static/unbelievable-9fa09786077029c4f7dbbc2819ff8b17-d53fe.jpg 1600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Church in Aloxe-Corton&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;p&gt;We’ve also done two tastings. For the first one, we tried 3 wines in a Chateau. The manager did not know English so we drank wine and looked around. The second tasting was the best education we have ever received in wine (yes, including the few tastings we had in Napa). It was very approachable and got both me and Em really motivated to appreciate wine more.&lt;/p&gt;
 &lt;p&gt;
+  &lt;figure class=&quot;gatsby-resp-image-figure&quot;&gt;
+  
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-253af.jpg&quot;
+    href=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-3602c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -383,22 +1103,25 @@
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Chateau Corton&quot;
-        title=&quot;&quot;
-        src=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-f8fb9.jpg&quot;
-        srcset=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-e8976.jpg 148w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-63df2.jpg 295w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-f8fb9.jpg 590w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-85e3d.jpg 885w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-d1924.jpg 1180w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-9452e.jpg 1770w,
-/static/chateau-b0bb23a4d52f474892a869168a786cfd-253af.jpg 2400w&quot;
+        title=&quot;Location of our second tasting - Chateau Corton&quot;
+        src=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-1697e.jpg&quot;
+        srcset=&quot;/static/chateau-b0bb23a4d52f474892a869168a786cfd-a2cfd.jpg 148w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-3348f.jpg 295w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-1697e.jpg 590w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-6a00a.jpg 885w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-46304.jpg 1180w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-07574.jpg 1770w,
+/static/chateau-b0bb23a4d52f474892a869168a786cfd-3602c.jpg 2400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
+    
+  &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;Location of our second tasting - Chateau Corton&lt;/figcaption&gt;
+  &lt;/figure&gt;
+      &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Here’s some simple lessons we learned in the short tasting that I think we will actually remember years from now. Let’s call it, Matt and Em’s new dummies guide for wine. I’m sure we will revise it as we learn more.&lt;/p&gt;
