@@ -21,12 +21,12 @@
       "component---src-layouts-index-js-0f2e5a8cbf1b0a62469c.js.map"
     ],
     "path---burgundy": [
-      "path---burgundy-e26b6a9569c78d919abd.js",
-      "path---burgundy-e26b6a9569c78d919abd.js.map"
+      "path---burgundy-49dd5a6b52a12ba351a3.js",
+      "path---burgundy-49dd5a6b52a12ba351a3.js.map"
     ],
     "path---index": [
-      "path---index-b242f19e9f69dd00010a.js",
-      "path---index-b242f19e9f69dd00010a.js.map"
+      "path---index-78843742314d5d60a48f.js",
+      "path---index-78843742314d5d60a48f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -39,8 +39,8 @@
       "build-js-styles.css.map"
     ],
     "path---paris": [
-      "path---paris-97d8d302b03845b4228a.js",
-      "path---paris-97d8d302b03845b4228a.js.map"
+      "path---paris-1b90d201f9a18edebccc.js",
+      "path---paris-1b90d201f9a18edebccc.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -50,10 +50,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---tuscan-routine": [
+      "path---tuscan-routine-36fbd28a28ebda8ac37b.js",
+      "path---tuscan-routine-36fbd28a28ebda8ac37b.js.map"
+    ],
     "app": [
-      "app-3da0081a6f9bd9e5784d.js",
+      "app-4637a1d36d439899c5d4.js",
       "build-js-styles.css",
-      "app-3da0081a6f9bd9e5784d.js.map",
+      "app-4637a1d36d439899c5d4.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -61,8 +65,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tuscan-hiking": [
-      "path---tuscan-hiking-b2f2938b3381ab7089f8.js",
-      "path---tuscan-hiking-b2f2938b3381ab7089f8.js.map"
+      "path---tuscan-hiking-d63e10f9504c82fedfd1.js",
+      "path---tuscan-hiking-d63e10f9504c82fedfd1.js.map"
     ]
   }
 }
