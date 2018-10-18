@@ -8,6 +8,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---switzerland": [
+      "path---switzerland-569c61435edc3b78069e.js",
+      "path---switzerland-569c61435edc3b78069e.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -25,8 +29,8 @@
       "path---burgundy-49dd5a6b52a12ba351a3.js.map"
     ],
     "path---index": [
-      "path---index-78843742314d5d60a48f.js",
-      "path---index-78843742314d5d60a48f.js.map"
+      "path---index-2bb103a713710f15adbe.js",
+      "path---index-2bb103a713710f15adbe.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -46,18 +50,22 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---lake-como": [
+      "path---lake-como-b9ca01db5623014a74b4.js",
+      "path---lake-como-b9ca01db5623014a74b4.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tuscan-routine": [
-      "path---tuscan-routine-36fbd28a28ebda8ac37b.js",
-      "path---tuscan-routine-36fbd28a28ebda8ac37b.js.map"
+      "path---tuscan-routine-94aab34885fa7c779da9.js",
+      "path---tuscan-routine-94aab34885fa7c779da9.js.map"
     ],
     "app": [
-      "app-4637a1d36d439899c5d4.js",
+      "app-cac4d77aec9a4965098c.js",
       "build-js-styles.css",
-      "app-4637a1d36d439899c5d4.js.map",
+      "app-cac4d77aec9a4965098c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
